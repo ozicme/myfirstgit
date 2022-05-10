@@ -1,1 +1,3 @@
 This is my first git testing file. Pls make sure that i have never practicted any kind of git file before..
+I'm very happy to have a chance to practice the git..
+한글도 추가합니다
